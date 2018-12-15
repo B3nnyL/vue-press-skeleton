@@ -1,0 +1,12 @@
+{
+ "name": "vuepress-skeleton",
+ "license": "MIT",
+ "author": {"name": "Shuying Lin", "email": "ciao@sylin.me", "url": "http://www.sylin.me"},
+"scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
