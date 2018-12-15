@@ -1,6 +1,7 @@
 {
  "name": "vuepress-skeleton",
  "license": "MIT",
+ "version": "0.1.1",
  "author": {"name": "Shuying Lin", "email": "ciao@sylin.me", "url": "http://www.sylin.me"},
 "scripts": {
     "docs:dev": "vuepress dev docs",
@@ -8,5 +9,6 @@
   },
   "devDependencies": {
     "vuepress": "^0.14.8"
-  }
+  },
+  "repository": "https://github.com/B3nnyL/vue-press-skeleton.git"
 }
