@@ -1,14 +1,20 @@
 {
- "name": "vuepress-skeleton",
- "license": "MIT",
- "version": "0.1.1",
- "author": {"name": "Shuying Lin", "email": "ciao@sylin.me", "url": "http://www.sylin.me"},
-"scripts": {
+  "name": "vuepress-skeleton",
+  "license": "MIT",
+  "version": "0.1.1",
+  "author": {
+    "name": "Shuying Lin",
+    "email": "ciao@sylin.me",
+    "url": "http://www.sylin.me"
+  },
+  "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "vuepress": "^0.14.8"
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "vuepress": "^1.0.0-alpha.30"
   },
   "repository": "https://github.com/B3nnyL/vue-press-skeleton.git"
 }
