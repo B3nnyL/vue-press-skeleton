@@ -17,6 +17,10 @@ module.exports = {
             {
                 text: 'Blog',
                 link: '/posts/p1',
+            },
+            {
+                text: 'Customised components',
+                link: 'customised'
             }
         ]
     }
