@@ -1,7 +1,7 @@
 //global config for vuejs project
 module.exports = {
     title: 'Title',
-    description: 'Default escription in header meta',
+    description: 'Default description in header meta',
     head: [
         ['link', { rel: 'icon', href: '/logo.png' }]
     ],
@@ -20,7 +20,7 @@ module.exports = {
             },
             {
                 text: 'Customised components',
-                link: 'customised'
+                link: '/customised'
             }
         ]
     }

@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "vuepress-skeleton",
+  "alias": "skeleton",
+  "builds": [{
+    "src": "package.json",
+    "use": "@now/static-build"
+  }]
+}

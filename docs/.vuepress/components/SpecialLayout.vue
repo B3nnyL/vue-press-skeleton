@@ -3,7 +3,9 @@
   <div class="container">
     <header>
       <Content slot-key="header"/>
-      <h3>{{$frontmatter.title}}</h3>
+      <div class="content">
+        <h3>{{$frontmatter.title}}</h3>
+      </div>
     </header>
     <main>
       <Content/>
