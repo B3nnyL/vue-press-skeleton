@@ -33,6 +33,4 @@ export default {}
     color: palegreen;
   }
 }
-
-
 </style>
